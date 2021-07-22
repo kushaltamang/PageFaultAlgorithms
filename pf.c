@@ -1,5 +1,4 @@
 /* Mohit Tamang
-   100152822
 */
 #include <stdio.h>
 #include <string.h>
