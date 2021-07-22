@@ -4,5 +4,6 @@ This is a program that implements the FIFO, Optimal, MFU, and LRU page-replaceme
 
 Compiling Instructions:
 - ./a.out <filename>
+ 
  Example:
 - ./a.out test1.txt 
